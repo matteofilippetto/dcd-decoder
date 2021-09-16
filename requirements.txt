@@ -1,0 +1,4 @@
+argparse
+flynn
+base45
+pyzbar
