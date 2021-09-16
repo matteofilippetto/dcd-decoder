@@ -4,11 +4,7 @@
 # based on code of Tobias Girstmair (https://gir.st/blog/greenpass.html)
 # Consider this code GPLv3 licensed.
 #
-# Electronic Health Certificates
-# https://github.com/ehn-dcc-development/hcert-spec/blob/main/README.md
-#
-# Digital Covid Certificate Schema
-# https://github.com/ehn-dcc-development/ehn-dcc-schema
+
 
 import argparse
 import json
