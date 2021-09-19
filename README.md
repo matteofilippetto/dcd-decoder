@@ -1,7 +1,7 @@
 # dcd-decoder
 Digital Covid Certificate decoder
 
-Decode an image or qr code image data to human readable json and decode vendors and vaccine medical name
+Decode an image or qr code image data to human readable json and decode vendors and vaccine name
 
 Usage
 
